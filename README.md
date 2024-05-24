@@ -1,11 +1,9 @@
 # goweb.svc
 a simple REST web service written in go using gin router to support crud operations on json/data.json file
 
-
-
 ## Purpose
-The purpose of this code repo is to provide updated Go language example for a web-service as of **'2024/05'**.
-Many examples on the web are outdated because they use deprecated modules.
+The purpose of this code repo is to provide updated Go language example for a web-service. 
+As of **'2024/05'** many examples on the web are outdated because they use deprecated modules.
 
 ## Exposed Methods
 The web service exposes following methods;
