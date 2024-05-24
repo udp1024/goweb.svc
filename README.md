@@ -4,7 +4,7 @@ a simple REST web service written in go using gin router to support crud operati
 
 
 ## Purpose
-The purpose of this code repo is to provide updated Go language example for a web-service as of **'2024/05'**
+The purpose of this code repo is to provide updated Go language example for a web-service as of **'2024/05'**.
 Many examples on the web are outdated because they use deprecated modules.
 
 ## Exposed Methods
