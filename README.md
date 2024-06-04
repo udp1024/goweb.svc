@@ -9,16 +9,17 @@ As of **'2024/05'** many examples on the web are outdated because they use depre
 The data resides in the json/ directory, in file named data.jspon
 
 ### Sample data
-```[
+```
+[
   {
     "id": "1",
     "icon": "images/whatsapp-transp.png",
     "name": "Whats App",
     "description": "messaging",
     "link": "https://web.whatsapp.com"
-  },
-  ...
-}```
+  }
+]
+```
 
 ## Exposed Methods
 The web service exposes following methods;
