@@ -5,6 +5,21 @@ a simple REST web service written in go using gin router to support crud operati
 The purpose of this code repo is to provide updated Go language example for a web-service. 
 As of **'2024/05'** many examples on the web are outdated because they use deprecated modules.
 
+## Data Structure
+The data resides in the json/ directory, in file named data.jspon
+
+### Sample data
+```[
+  {
+    "id": "1",
+    "icon": "images/whatsapp-transp.png",
+    "name": "Whats App",
+    "description": "messaging",
+    "link": "https://web.whatsapp.com"
+  },
+  ...
+}```
+
 ## Exposed Methods
 The web service exposes following methods;
 ```
